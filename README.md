@@ -11,4 +11,4 @@ This repository contains code of C++ basics, advance, oops
 
 ### Types
 
-- #### 1. Default Constructor
+#### 1. Default Constructor
